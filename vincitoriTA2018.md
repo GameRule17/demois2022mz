@@ -1,1 +1,1 @@
-I nomi dei vincitori sono pippo pluto paperino
+I nomi dei vincitori sono *Geoffrey Hinton, Yoshua Bengio, Yann LeCun*
