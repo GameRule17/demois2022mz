@@ -1,0 +1,1 @@
+I nomi dei vincitori sono pippo pluto paperino
